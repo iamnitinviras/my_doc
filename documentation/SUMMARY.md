@@ -11,3 +11,7 @@
 * [Two (copy) (copy)](two-copy-copy.md)
 * [Troubleshooting](troubleshooting.md)
 * [Changelog](changelog.md)
+* [Getting started with Laravel Script](getting-started-with-laravel-script.md)
+* [Installing a script](installing-a-script.md)
+* [License and usage terms](license-and-usage-terms.md)
+* [Frequently asked questions and troubleshooting](frequently-asked-questions-and-troubleshooting.md)
